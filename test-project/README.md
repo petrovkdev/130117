@@ -1,3 +1,3 @@
-testapp
+test-project
 =======
 
